@@ -28,8 +28,13 @@ A bookstore webpage made with reactJS with facinating display and functionality.
 2.    Run `npm install` to download all the required dependencies.
 3.    Run `npm start` to run the react project.
 
-## Instructions to run the build fle (for production perspective)##
+## Instructions to run the build fle (for production perspective) ##
 There are many ways to do this, I will show the recommended method by react
 1.    In the terminal (cmd/bash) navigate to the project directory.
 2.    Run `npm install serve` to install the serve package.
 3.    Run `serve -s build` to run the build file.
+
+Note: 
+- The images for the books was taken from the wattpad website and belong to the original authors.
+- The data file for the books are located in the public folder with the file name bookData.json.
+- This is just a prototype project.

@@ -1,0 +1,11 @@
+body{
+    background-image:url('./assets/pagebg.jpg');
+    background-position:center;
+    background-size:cover;
+    background-repeat:repeat;
+}
+
+.app-container{
+    max-width: 90%;
+    margin:0 auto;
+}

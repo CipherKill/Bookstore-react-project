@@ -1,0 +1,42 @@
+
+.main-area{
+    background-color:rgb(255, 255, 255);
+    width:350px;
+    padding:25px 40px;
+    cursor:pointer;
+    border-radius:20px;
+    margin:50px;
+}
+
+.image-style{
+    margin:0 auto;
+    display:block;
+    height:300px;
+}
+
+.information-area{
+    margin-top:1rem;
+    border-top:3px solid rgb(85, 0, 85);
+    border-bottom:3px solid rgb(85, 0, 85);
+}
+
+.title-style{
+    font-size:2rem;
+    margin:0;
+}
+
+.author-style{
+    font-size:1.3rem;
+}
+
+.rating-style,
+.genre-style{
+    font-size:1.2rem;
+}
+
+.highlight{
+    color:rgb(85, 0, 85);
+    font-weight:700;
+}
+
+

@@ -1,0 +1,32 @@
+
+.about-area{
+    background-color:white;
+    border-radius:10px;
+}
+
+.heading-text{
+    font-size:4rem;
+}
+
+.content{
+    font-size:1.5rem;
+}
+
+.info-content{
+    font-size:1.3rem;
+}
+
+.link{
+    color:purple;
+}
+
+.version{
+    border:1px solid rgb(114, 114, 114);
+    border-radius: 20px;;
+    width:fit-content;
+    padding:5px 10px;
+}
+
+.version-highlight{
+    color:orangered;
+}

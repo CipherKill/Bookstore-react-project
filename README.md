@@ -1,6 +1,6 @@
 # Bookstore webpage using reactJS #
 
-A bookstore webpage made with reactJS with fascinating display and functionality.
+A bookstore webpage made with reactJS which contains fascinating display and functionality.
 
 ## Contents of this README ##
 - Output webpage images
